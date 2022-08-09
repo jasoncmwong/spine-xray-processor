@@ -18,7 +18,7 @@
 
 ### Pedicles
 #### Input:
-- square image centered on the vertebral body (T4-L5, inclusive) with some margins at the sides and top/bottom
+- square image centered on the vertebral body (T4-L4, inclusive) with some margins at the sides and top/bottom
 
 #### Pre-processing procedure:
 - Adaptive histogram equalization
